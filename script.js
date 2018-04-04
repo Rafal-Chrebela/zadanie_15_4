@@ -1,7 +1,7 @@
 // Zadanie 1
 const firstString = "Hello";
 const secondString = "World";
-console.log(`${firstString}${secondString}`);
+console.log(`${firstString} ${secondString}`);
 
 // Zadanie 2
 const x = 1;
